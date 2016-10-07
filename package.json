@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "starter kit for building bots with kik",
   "main": "server.js",
-  "scripts": {
-    "start": "nodemon server.js"
-  },
-  "devDependencies": {
-    "nodemon": "^1.9.1"
   },
   "dependencies": {
     "@kikinteractive/kik": "^2.0.0",
